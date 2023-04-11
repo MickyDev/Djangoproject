@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'newyear',
     'christmas',
     'Staticapp',
+    'Task',
 ]
 
 MIDDLEWARE = [
